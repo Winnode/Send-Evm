@@ -1,9 +1,6 @@
 {
     "rpc_url": "https://rpc-mokotow.data-lake.co",
-    "private_keys": [
-        "PK1",
-        "PK2"
-    ],
+    "private_keys": ["YOUR_PRIVATE_KEY_1", "YOUR_PRIVATE_KEY_2"],
     "gas_price_gwei": "0.1",
     "gas_limit": 2000000,
     "jumlah_wallet": 100,
