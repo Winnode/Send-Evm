@@ -1,6 +1,6 @@
 # Send Balance Winsnip Testnet
 
-This project is a Python script that allows users to interact with the Ethereum blockchain to send ETH to multiple wallets, generate new wallets, and load wallet addresses from a file. It uses the Web3.py library for blockchain interactions and provides a user-friendly command-line interface.
+This project is allows users to interact with the Ethereum blockchain to send ETH to multiple wallets, generate new wallets, and load wallet addresses from a file. It uses the Web3.py library for blockchain interactions and provides 
 
 ## Features
 
