@@ -1,0 +1,4 @@
+web3==5.30.0
+eth-account==0.6.7
+colorama==0.4.4
+pyfiglet==0.8.post1
